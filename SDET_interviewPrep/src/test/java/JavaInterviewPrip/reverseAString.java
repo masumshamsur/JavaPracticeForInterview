@@ -1,13 +1,15 @@
 package JavaInterviewPrip;
 
 
-/* Question 1: Write a Java Program to reverse a String.*/
+ 		/* Question 2
+		   Print the reverse words of a string (INPUT : Alberstons is the best place  
+		   Result should be snotsreblA si eht tseb ecalp */
 
 public class reverseAString {
 
 	public static void main(String[] args) {
 		
-		String str="good mornig";
+		String str="Alberstons";
 		String rstr=" ";
 		char ch;
 		

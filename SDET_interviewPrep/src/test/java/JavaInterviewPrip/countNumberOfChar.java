@@ -23,7 +23,7 @@ public class countNumberOfChar {
 				charMap.put(ch, 1);
 			}
 		}
-		System.out.println(charMap);
+		System.out.println(charMap); // will print the expected result
 		
 	}
 
