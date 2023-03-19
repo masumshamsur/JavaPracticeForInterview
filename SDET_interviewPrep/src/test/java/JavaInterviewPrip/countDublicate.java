@@ -3,7 +3,8 @@ package JavaInterviewPrip;
 import java.util.HashMap;
 import java.util.Set;
 
-//Question 3: Write a Java Program to find the duplicates of a given String.
+/*Question 3: Write a Java Program to 
+find the duplicates of a given String. */
 
 public class countDublicate {
 
