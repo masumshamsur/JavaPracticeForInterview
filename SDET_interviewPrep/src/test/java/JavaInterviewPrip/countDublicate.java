@@ -6,7 +6,7 @@ import java.util.Set;
 /*Question 3: Write a Java Program to 
 find the duplicates of a given String. */
 
-public class countDublicate{
+public class countDublicate {
 
 	public static void main(String[] args) {
 		

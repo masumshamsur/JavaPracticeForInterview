@@ -1,7 +1,7 @@
 package JavaInterviewPrip;
 
 
-//Question 1: Write a Java Program to reverse a String.
+/* Question 1: Write a Java Program to reverse a String.*/
 
 public class reverseAString {
 

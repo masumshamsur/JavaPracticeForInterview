@@ -1,9 +1,7 @@
 package JavaInterviewPrip;
 
 
-/*
-Switch case
- */
+/* Switch case  */
 public class SwitchCaseWeek {
 
 	public static void main(String[] args) {

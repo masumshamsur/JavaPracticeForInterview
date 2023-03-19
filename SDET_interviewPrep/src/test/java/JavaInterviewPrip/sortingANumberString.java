@@ -1,7 +1,10 @@
 package JavaInterviewPrip;
 
 
-/* sorting a number string */
+/* 
+ sorting a number string 
+ 
+ */
 
 public class sortingANumberString {
 
