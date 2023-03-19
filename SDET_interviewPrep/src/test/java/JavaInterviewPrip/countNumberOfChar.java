@@ -6,7 +6,7 @@ import java.util.Set;
 
        //Question 2:  Write a Java Program to count the number of characters in a given String.
 
-public class countNumberOfChar {
+public class countNumberOfChar{
 
 	public static void main(String[] args) {
 		
